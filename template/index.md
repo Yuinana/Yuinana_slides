@@ -1,8 +1,8 @@
 ---
 marp: true
-theme: yKicchan
+theme: Yuinana
 paginate: true
-image: https://yKicchan.github.io/awesome-marp-template/{{PATH}}/index.png
+image: https://Yuinana.github.io/yuinana_slides/{{PATH}}/index.png
 title:
 description:
 keywords:
@@ -35,4 +35,7 @@ keywords:
 
 ### 2. item
 
-- description
+```js {name=index.js}
+const message = "Thank you for using Awesome Marp Template!";
+console.log(message);
+```

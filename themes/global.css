@@ -3,6 +3,11 @@
 /* Custom theme affecting the entire slide */
 
 /* common */
+section{
+  background: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
 section *::selection {
   background: rgba(110, 110, 255, 0.38);
 }
@@ -49,7 +54,13 @@ mark {
 }
 
 /* code block */
+code{
+  color: #112328;
+  font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
+}
 marp-pre {
+  color: var(--color-dimmed);
+  background-color: #F7F8FA;
   border-radius: 8px;
 }
 :not(marp-pre) code {

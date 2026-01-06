@@ -122,7 +122,9 @@ code[name]::before {
   border-bottom-right-radius: 8px;
   content: attr(name);
   font-size: .75em;
+  color: var(--color-background);
   background: var(--color-dimmed);
+  text-shadow: none;
 }
 
 /* alert */
