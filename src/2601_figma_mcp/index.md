@@ -2,14 +2,13 @@
 marp: true
 theme: Yuinana
 paginate: true
-title: マーケティングLPの実装を効率化した話
-description: Figmaを設計データとしてClaudeに渡したら何が起きたか
+title: Figma MCP×ClaudeでLP実装爆速化した話
 image: https://Yuinana.github.io/yuinana_slides/2601_figma_mcp/index.png
 ---
 
 <!-- _class: lead -->
-# マーケティングLPの実装を効率化した話
-## Figma MCPを使ってみたよ
+# Figma MCP×ClaudeでLP実装爆速化した話
+
 nana / BP Style#180
 ![bg](images/cover_00.jpg)
 
@@ -96,7 +95,8 @@ nana / BP Style#180
 
 - 対象: [connpass純広告LP](https://business.connpass.com/display_ad/)
 - 静的部分の約90%を生成
-- 人は「微調整と確認」に集中できた
+- 約3日→3hに
+- 人はどうせ人間が最終確認する箇所&リッチな表現に集中できた
 
 ![bg](images/cover_02.jpg)
 
