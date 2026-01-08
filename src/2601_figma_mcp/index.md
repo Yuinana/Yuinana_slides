@@ -4,6 +4,7 @@ theme: Yuinana
 paginate: true
 title: マーケティングLPの実装を効率化した話
 description: Figmaを設計データとしてClaudeに渡したら何が起きたか
+image: https://Yuinana.github.io/yuinana_slides/2601_figma_mcp/index.png
 ---
 
 <!-- _class: lead -->
